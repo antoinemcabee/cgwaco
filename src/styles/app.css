@@ -1,0 +1,44 @@
+
+:root{
+    --primary--color: #e36135;
+    --secondary--color: #0085bd;
+    --text--color: #474747;
+}
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    font-family: 'Montserrat', sans-serif;
+}
+
+body {
+    background-color: (var(--secondary--color));
+    color: var(--primary--color);
+    font-size: 18px;
+    line-height: 1.6;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p {
+    margin-bottom: 10px;
+    font-family: 'Montserrat', sans-serif;
+}
+
+a {
+    text-decoration: none;
+    color: var(--secondary--color);
+}
+
+.primary-text {
+    color: var(--primary--color);
+}
+
+.secondary-text {
+    color: var(--secondary--color);
+}
