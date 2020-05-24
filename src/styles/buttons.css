@@ -37,7 +37,7 @@
 .my-btn-secondary:hover {
     transform: scale(.90);
     border: var(--secondary--color) 1px solid;
-    background-color: var(--secondary--color);
+    background-color: transparent;
     text-decoration: none;
-    color: #fff
+    color: var(--secondary--color);
 }

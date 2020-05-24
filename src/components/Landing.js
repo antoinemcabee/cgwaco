@@ -18,7 +18,7 @@ function Landing () {
                         <div className='content'>
                             <h1>Common Grounds Waco</h1>
                             <ButtonPrimary text='Order Now' target="https://orders.cake.net/11118835" />
-                            <ButtonSecondary text='Menu' target="https://orders.cake.net/11118835" />
+                            <ButtonSecondary text='Locations' target="https://orders.cake.net/11118835" />
                             
                         </div>
                     </ParallaxLayer>
